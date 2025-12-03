@@ -5,12 +5,12 @@ permalink: /CV
 ---
 
 # Drew Heiderscheidt
-### Instructional Consultant | Center for Innovative Teaching & Learning, Indiana University Bloomington (IUB)
-### PhD Candidate | Department of Geography, IUB
+#### Instructional Consultant | Center for Innovative Teaching & Learning, Indiana University Bloomington (IUB)
+#### PhD Candidate | Department of Geography, IUB
 
 --- 
 
-### Education
+### **Education**
 #### PhD in Geography, IUB
 *	*Minor:* Digital Arts & Humanities
 *	*Dissertation:* Foreigners, Vagrants, Outside Agitators: Geographically Imagining Criminals & Collective Action in Colorado, 1890s-1910s [working title]
@@ -27,7 +27,7 @@ permalink: /CV
 
 ---
 
-### Research Interests
+### **Research Interests**
 
 | ------------- | ------------- | ------------- | 
 | Historical & Carceral Geographies of Colorado's Front Range  | Collective Action - Mutual Aid & Direct Action  | Critical Historical GIS |
@@ -41,15 +41,15 @@ permalink: /CV
 
 ---
 
-### Technical & GIS Experience
+### **Technical & GIS Experience**
 
 --- 
-### Publications
+### **Publications**
 * See [Publications](https://drew-heider.space/publications).
 
 --- 
 
-### Presentations
+### **Presentations**
 * **Heiderscheidt, Drew**. Mapping Solidarity: The Western Federation of Miners, Colorado Labor Wars, & Potential of Historical GIS. *American Association of Geographers Annual Meeting*, 28 March 2025. Detroit, MI. Panel Presentation
 * **Heiderscheidt, Drew**. Stretching Archival Collections with GIS: A Case Study from Colorado. *Common Grounds*, 8 March 2025 — Indiana University, Bloomington, IN — Panel Presentation.
 * **Heiderscheidt, Drew**, Gordon, Eve, Clark, Timothy, & Rivera, Isaac. Centennial Struggles: Producing a Critical Historical GIS of Colorado’s Front Range in the 20th Century. *Common Grounds*, 13 April 2024. IUB, Bloomington, IN — Panel Presentation.
@@ -61,7 +61,7 @@ permalink: /CV
 
 ---
 
-### Grants & Fellowships
+### **Grants & Fellowships**
 #### *External*
 ##### 2024
 * IHG Research Grant ($2,000) – *Institute of Human Geography*
@@ -105,7 +105,7 @@ permalink: /CV
 
 ---
 
-### Service
+### **Service**
 #### *University*
 ##### 2021
 * *GIS Day* Organizer
@@ -143,14 +143,14 @@ permalink: /CV
 
 ---
 
-### Editorial & Advisory Boards
+### **Editorial & Advisory Boards**
 * **Associate Editor (Geography & GIS)** — *Leisure Sciences* (2023-Present)
 
 ---
 
-### Selected Skills
+### **Selected Skills**
 
-| Geographic Information Systems & Mapping | Programming Languages | Data Management Systems |
+| **Geographic Information Systems & Mapping** | **Programming Languages** | **Data Management Systems** |
 | ------------- | ------------- | ------------- | 
 | QGIS | Python  | Obsidian.md |
 | ArcGIS Products | R & RStudio  | ArcCatalog |
@@ -161,7 +161,7 @@ permalink: /CV
 
 ---
 
-### Memberships
+### **Memberships**
 * American Association of Geographers. (2020-Present.)
 * American Historical Association (2024-Present)
 * Indiana Geographic Information Council. (2020-Present.)
