@@ -12,7 +12,7 @@ creationdate: "2025"
 type: "Map"
 shortdesc: "A map of the strike fund published by the Western Federation of Miners ca. 1903-05. "
 contributorquote: 
-categories: [ ]
+categories: [ labor-strikes, WFM, historical-geography, historical-GIS, solidarity ]
 tags: [ labor-strikes, WFM, historical-geography, historical-GIS ]
 teammember: 
 ---
