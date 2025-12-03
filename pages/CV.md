@@ -29,11 +29,10 @@ permalink: /CV
 
 ### Research Interests
 
-
 | ------------- | ------------- | ------------- | 
-| Historical & Carceral Geographies of Colorado's Front Range  | Collective Action - Mutual Aid & Direct Action  | Critical Historical GIS |
-| Processes of Criminalization & Racialization  | Geographies of State Power  | Historical & Qualitative Methodologies |
-| Geographical Imaginations  | Critical Theories of Space & Place  | Digital Humanities Methodologies |
+| * Historical & Carceral Geographies of Colorado's Front Range  | * Collective Action - Mutual Aid & Direct Action  | * Critical Historical GIS |
+| * Processes of Criminalization & Racialization  | * Geographies of State Power  | * Historical & Qualitative Methodologies |
+| * Geographical Imaginations  | * Critical Theories of Space & Place  | * Digital Humanities Methodologies |
 
 ---
 
