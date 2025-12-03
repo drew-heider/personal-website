@@ -67,11 +67,11 @@ permalink: /CV
 ---
 
 ### Grants & Fellowships
+
 | First Header  | Second Header | Third Header |
 | ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  | Content Cell |
 | Content Cell  | Content Cell  | Content Cell |
-
 
 ---
 
@@ -80,6 +80,7 @@ permalink: /CV
 ---
 
 ### Editorial & Advisory Boards
+* **Associate Editor (Geography & GIS)** — *Leisure Sciences* (2023-Present)
 
 ---
 
