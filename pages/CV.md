@@ -67,8 +67,10 @@ permalink: /CV
 ---
 
 ### Grants & Fellowships
-| Column 1 | Column 2 | Column 3 |
-| Row 1 | Row 2 | Row 3 | 
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
 
 
 ---
