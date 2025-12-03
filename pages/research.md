@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Research
 layout: default
-permalink: /publications
+permalink: /research
 ---
 
 # Header 1
