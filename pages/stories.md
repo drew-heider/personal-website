@@ -1,5 +1,5 @@
 ---
-title: Our Stories
-layout: stories
-permalink: /stories
+title: CV
+layout: default
+permalink: /CV
 ---
