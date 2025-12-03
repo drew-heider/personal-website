@@ -138,7 +138,7 @@ permalink: /CV
   * Maintained the IU Geography Department's Twitter & Facebook pages.
 
 ##### 2019
-* **Geography in Practice Symposium (GPS)* Organizer
+* *GPS* Organizer
   * Assisted organizing Jason W. Moore’s colloquium presentation “For an Ecology of Hope: Climate, Power, and Justice in the Modern World.”
 
 ---
