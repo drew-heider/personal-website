@@ -1,7 +1,7 @@
 ---
-title: Our Collection
+title: Maps
 layout: collection
-permalink: /collection
+permalink: /maps
 ---
 
 {{site.description}}
