@@ -14,3 +14,18 @@
   url: /CV
   excerpt:
   image:
+
+- title: Publications
+  url: /publications
+  excerpt:
+  image:
+
+  - title: Teaching
+  url: /teaching
+  excerpt:
+  image:
+
+  - title: Contact
+  url: /contact
+  excerpt:
+  image:
