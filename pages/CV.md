@@ -8,13 +8,6 @@ permalink: /CV
 ### Instructional Consultant | Center for Innovative Teaching & Learning, Indiana University Bloomington (IUB)
 ### PhD Candidate | Department of Geography, IUB
 
----
-
-### Research Interests
-* Historical & Carceral Geographies of Colorado's Front Range | Processes of Criminalization & Racialization | Geographical Imaginations
-* Collective Action - Mutual Aid & Direct Action | Geographies of State Power | Critical Theories of Space & Place
-* Critical Historical GIS | Critical Mapping | Historical & Qualitative Methodologies | Digital Humanities Methodologies
-
 --- 
 
 ### Education
@@ -31,6 +24,20 @@ permalink: /CV
 
 
 #### B.A. in History & Environmental and Sustainability Studies (*Summa Cum Laude*), UNCO
+
+---
+
+### Research Interests
+* Historical & Carceral Geographies of Colorado's Front Range
+* Processes of Criminalization & Racialization
+* Geographical Imaginations
+* Collective Action - Mutual Aid & Direct Action
+* Geographies of State Power
+* Critical Theories of Space & Place
+* Critical Historical GIS
+* Critical Mapping
+* Historical & Qualitative Methodologies
+* Digital Humanities Methodologies
 
 ---
 
