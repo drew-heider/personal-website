@@ -68,7 +68,7 @@ permalink: /CV
 
 ### Grants & Fellowships
 
-| First Header  | Second Header | Third Header |
+|  | | |
 | ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  | Content Cell |
 | Content Cell  | Content Cell  | Content Cell |
