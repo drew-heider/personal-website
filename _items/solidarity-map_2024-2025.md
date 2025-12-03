@@ -1,20 +1,20 @@
 ---
 layout: item
 format: photo
-title: Grateful Dead Hat
-author: "IDAH Team"
-contributor: "Drew H"
+title: Western Federation of Miners Solidarity Map (temp. title)
+author: "Drew Heiderscheidt"
+contributor: ""
 group: 
-creator: "Grateful Dead Productions"
+creator: ""
 externalurl: 
 embedurl: 
-creationdate: "ca. 2018"
-type: "Physical Object"
-shortdesc: "A turquoise strap-back hat with a Grateful Dead dancing bear on the front "
+creationdate: "2024-2025"
+type: "Map"
+shortdesc: "A map of the strike fund published by the Western Federation of Miners ca. 1903-05. "
 contributorquote: 
-categories: [ Clothing, Music ]
+categories: [ Strikes, Labor, Historical-Geography, Historical GIS ]
 tags: [  ]
-teammember: Andy Floyd
+teammember: 
 ---
 
 ## About This Item
