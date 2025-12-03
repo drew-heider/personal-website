@@ -129,14 +129,11 @@ permalink: /CV
 | GeoDjango  | JavaScript  | Tropy |
 |  | Markdown  | |
 
-
-
 ---
 
 ### Memberships
-
----
-
-#### Header 4
-##### Header 5
-###### Header 6
+* American Association of Geographers. (2020-Present.)
+* American Historical Association (2024-Present)
+* Indiana Geographic Information Council. (2020-Present.)
+* Rocky Mountain URISA – Regional Chapter of URISA International. (2018-Present.)
+* Western History Association. (2024-Present.)
