@@ -5,6 +5,7 @@ title: Western Federation of Miners Solidarity Map (temp. title)
 author: "Drew Heiderscheidt"
 group: 
 creator: "Drew Heiderscheidt"
+contributor: ""
 externalurl: 
 embedurl: 
 creationdate: "2024-2025"
