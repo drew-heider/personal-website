@@ -42,10 +42,9 @@ repository: 'drew-heider/personal-website.github.io'
 #---------------------
 
 # Title of your website
-title: "Drew Heiderscheidt"
+title: "Drew Heiderscheidt Personal Website"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: ""
@@ -57,7 +56,7 @@ authorname : "Drew Heiderscheidt"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
 # Main author of the website.
-sitelogo: "site_logo.jpg"
+sitelogo: "drew_heiderscheidt.jpg"
 
 # What year did you start up this community project?
 sitedate : 2025
