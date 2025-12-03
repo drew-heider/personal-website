@@ -45,7 +45,7 @@ permalink: /CV
 --- 
 
 ### Presentations
-* **Heiderscheidt, Drew** | Mapping Solidarity: The Western Federation of Miners, Colorado Labor Wars, & Potential of Historical GIS | American Association of Geographers Annual Meeting, 28 March 2025 | Detroit, MI | Panel Presentation
+* **Heiderscheidt, Drew** — Mapping Solidarity: The Western Federation of Miners, Colorado Labor Wars, & Potential of Historical GIS — American Association of Geographers Annual Meeting — 28 March 2025, Detroit, MI — Panel Presentation
 * **Heiderscheidt, Drew** | Stretching Archival Collections with GIS: A Case Study from Colorado | Common Grounds, 8 March 2025 | Indiana University, Bloomington, IN | Panel Presentation.
 * **Heiderscheidt, Drew**, Gordon, Eve, Clark, Timothy, & Rivera, Isaac | Centennial Struggles: Producing a Critical Historical GIS of Colorado’s Front Range in the 20th Century | Common Grounds, 13 April 2024 | Indiana University Bloomington, Bloomington, IN | Panel Presentation.
 * **Heiderscheidt, Drew**, Henderson, Jane, Montange, Leah, & Smyth, Araby | GIS, policing, Esri and us: Abolition pedagogy with the Beyond Esri Resource Guide | Dimensions of Political Ecology, 23-24 February 2024 | University of Kentucky, Lexington, KY | Panel Presentation.
