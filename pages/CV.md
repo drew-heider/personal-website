@@ -63,14 +63,53 @@ permalink: /CV
 ---
 
 ### Grants & Fellowships
+#### *External*
+##### 2024
+* IHG Research Grant ($2,000) – *Institute of Human Geography*
+* Digital Project Accelerator – *Critical Digital Humanities Initiative (University of Toronto)*
 
-| ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |
+##### 2023
+* Right to the Discipline Grant (£10,000.00/~$12,225) – Antipode
+  * Individually allocated $3,000 as a member of the Making Abolition in Geography Collective.
+  * PI’s for this grant are Jane Henderson (Dartmouth College), Leah Montange (University of Toronto), and Araby Smyth (York University).
+  * My role in this grant is to help create a spatial database visualizing the contracts of Esri with police departments around the U.S. and Canada based on FOIA requests submitted by Leah Montange in 2023.
+
+
+#### *Internal*
+##### 2025
+* Dissertation Completion Grant (**$25,000 + benefits**) – Indiana University Graduate School
+  * Declined due to accepting a position as Instructional Consultant at IUB's Center for Innovative Teaching & Learning
+* Graduate Student Teaching Award (**$1,000**) – Dept. of Geography, IUB
+
+##### 2023
+* Graduate Student Research Grant (**$1,931.50**) – Center for Research on Race & Ethnicity in Society
+* Grant-in-Aid (**$1,000**) – University Graduate School, IUB
+* Graduate Student Research Grant (**$1,000**) – Dept. of Geography, IUB
+* Summer Incubator Fellowship (**$3,000**) – IDAH, IUB
+
+##### 2022-2023
+* Graduate Student Fellow, Kovener Teaching Fellows Program (**~$1,200**) – College of Arts and Sciences, Office of Diversity, Equity, and Inclusion (see also [Teaching Experience](https://drew-heider.space/teaching))
+
+##### 2022
+* Yolanda Treviño Service Award – Graduate & Professional Student Government, IUB
+
+##### 2021-2022
+* Humanities, Arts, Science and Technology Alliance and Collaboratory (HASTAC) Fellowship (**$500**) – IDAH, and HASTAC Foundation
+  * Developed a prototype story map with StoryMapJS titled “Policing, Punishment, Property, Control: A Brief History of Policing and the Prison Industrial Complex in Colorado’s Front Range, 1850s-Present.”
+
+
+##### 2021
+* William R. Black Leadership Memorial Fellowship (**$750**) – Dept. of Geography
+
+##### 2020
+* Summer Research Fellowship (**$3,000**) – Dept. of Geography
 
 ---
 
 ### Service
+#### *University*
+#### *Department*
+#### *Community*
 
 ---
 
@@ -80,6 +119,17 @@ permalink: /CV
 ---
 
 ### Selected Skills
+
+| Geographic Information Systems & Mapping | Programming Languages | Data Management Systems |
+| ------------- | ------------- | ------------- | 
+| QGIS | Python  | Obsidian.md |
+| ArcGIS Products | R & RStudio  | ArcCatalog |
+| Leaflet  | HTML  | PostGIS |
+| SpatialLite  | CSS | PostgreSQL |
+| GeoDjango  | JavaScript  | Tropy |
+|  | Markdown  | |
+
+
 
 ---
 
