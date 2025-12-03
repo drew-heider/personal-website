@@ -8,7 +8,12 @@ permalink: /CV
 ### Instructional Consultant | Center for Innovative Teaching & Learning, Indiana University Bloomington (IUB)
 ### PhD Candidate | Department of Geography, IUB
 
+---
+
 ### Research Interests
+
+--- 
+
 ### Education
 #### PhD in Geography, IUB
 *	Minor: Digital Arts & Humanities
@@ -16,33 +21,52 @@ permalink: /CV
 *	Committee: Drs. Ishan Ashutosh (Supervisor), Patricia Basile, Rachel Plotnick (IUB Media School), Kalani Craig (Minor Supervisor), Rasul Mowatt (North Carolina State University), & Micol Seigel (IUB Depts. of History & American Studies)
 
 #### M.A. in Geography, IUB
-##### *Master's Thesis*
-* Contact Tracing (Apps), Geographic Governance, & Imaginative Geographies: Producing Findability during COVID-19.
+* *Master's Thesis*: Contact Tracing (Apps), Geographic Governance, & Imaginative Geographies: Producing Findability during COVID-19.
 
 #### Graduate Certificate (GSci) in Geographic Information Science, University of Northern Colorado (UNCO)
 * *Concentrations:* Web GIS; Spatial Database Development & Management; Geospatial Programming
 
-#### B.A. in History & Environmental and Sustainability Studies, UNCO
-* *Summa Cum Laude*
+
+#### B.A. in History & Environmental and Sustainability Studies (*Summa Cum Laude*), UNCO
+
+---
 
 ### Teaching & Pedagogical Experience
 * See [Teaching](https://drew-heider.space/teaching).
 
+---
+
 ### Technical & GIS Experience
+
+--- 
 ### Publications
 * See [Publications](https://drew-heider.space/publications).
 
+--- 
+
 ### Presentations
+
+---
 
 ### Grants & Fellowships
 
+---
+
 ### Service
+
+---
 
 ### Editorial & Advisory Boards
 
+---
+
 ### Selected Skills
 
+---
+
 ### Memberships
+
+---
 
 #### Header 4
 ##### Header 5
