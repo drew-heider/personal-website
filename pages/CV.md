@@ -109,33 +109,33 @@ permalink: /CV
 #### *University*
 ##### 2021
 * *GIS Day* Organizer
- * In collaboration with the Institute for Digital Arts and Humanities (IDAH) and IU Libraries.
- * Key member of the organizing committee for 2021’s GIS Day at IUB and helped develop the theme “Mapping the Public Sphere: Citizen Science, Participatory History, and Public Engagement with the Academy.” (https://bit.ly/3yiLg6c)
- * Responsible for inviting, planning, and introducing Dr. Jen Jack Gieseking’s keynote presentation [“Constellations: The Limits and Inspirations of Mapping Queer Cities of Survival & Desire.”](https://hdl.handle.net/2022/27013).
+  * In collaboration with the Institute for Digital Arts and Humanities (IDAH) and IU Libraries.
+  * Key member of the organizing committee for 2021’s GIS Day at IUB and helped develop the theme “Mapping the Public Sphere: Citizen Science, Participatory History, and Public Engagement with the Academy.” (https://bit.ly/3yiLg6c)
+  * Responsible for inviting, planning, and introducing Dr. Jen Jack Gieseking’s keynote presentation [“Constellations: The Limits and Inspirations of Mapping Queer Cities of Survival & Desire.”](https://hdl.handle.net/2022/27013).
 
 ##### 2020
 * *GIS Day* Organizer
- * Key member of the organizing committee for 2020’s GIS Day with the theme “Geographies of Disruption: Mapping to Make Sense of 2020’s Sociopolitical Upheaval” (https://bit.ly/3G8XrER)
- * Organized and moderated Dr. Heidi Rae Cooley’s keynote presentation, [“’Sensing’ Place: Habit Change in the Mobile, Connected Present”](November 18, 2020, https://hdl.handle.net/2022/25980).
+  * Key member of the organizing committee for 2020’s GIS Day with the theme “Geographies of Disruption: Mapping to Make Sense of 2020’s Sociopolitical Upheaval” (https://bit.ly/3G8XrER)
+  * Organized and moderated Dr. Heidi Rae Cooley’s keynote presentation, [“’Sensing’ Place: Habit Change in the Mobile, Connected Present”](November 18, 2020, https://hdl.handle.net/2022/25980).
 
 #### *Department*
 ##### 2021-2022
 * Geography Department Colloquium Committee
- * Helped organize colloquium speakers with Drs. Natasha MacBean and Kurt Waldman.
+  * Helped organize colloquium speakers with Drs. Natasha MacBean and Kurt Waldman
 
 ##### 2020-2022
 * *Geography Graduate Student Organization* Leadership Roles
- * 	Jan.-May 2020: Served as Vice President.
- * 	May 2020 – Dec. 2020: Served as President.
- * 	Dec. 2020 – May 2022: Served as Secretary.
+  * 	Jan.-May 2020: Served as Vice President
+  * 	May 2020 – Dec. 2020: Served as President
+  * 	Dec. 2020 – May 2022: Served as Secretary
 
 ##### 2020-2021
 * *Geography in Practice Symposium (GPS)* Organizer
- * Scheduled, advertised, and fundraised for Dr. Tim Cresswell’s colloquium talk, “Unruly Mobilities and the New Normal: Turbulence in Covid Times” (March 19, 2021).
+  * Scheduled, advertised, and fundraised for Dr. Tim Cresswell’s colloquium talk, “Unruly Mobilities and the New Normal: Turbulence in Covid Times” (March 19, 2021).
 
 ##### 2019-2022
 * Social Media Manager
- * Maintained the IU Geography Department's Twitter & Facebook pages.
+  * Maintained the IU Geography Department's Twitter & Facebook pages.
 
 ##### 2019
 * **Geography in Practice Symposium (GPS)* Organizer
