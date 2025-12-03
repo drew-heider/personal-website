@@ -68,7 +68,6 @@ permalink: /CV
 
 ### Grants & Fellowships
 
-|  | | |
 | ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  | Content Cell |
 | Content Cell  | Content Cell  | Content Cell |
