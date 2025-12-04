@@ -6,4 +6,4 @@ pullquote: ""
 quoteattribution: ""
 ---
 
-## Drew Heiderscheidt is a PhD Candidate in Geography at Indiana University, Bloomington (IUB), and an Instructional Consultant at [IUB's Center for Innovative Teaching and Learning](https://citl.indiana.edu/index.html).
+## Drew Heiderscheidt is a PhD Candidate in [Geography](https://geography.indiana.edu/index.html) at Indiana University, Bloomington (IUB), and an Instructional Consultant at [IUB's Center for Innovative Teaching and Learning](https://citl.indiana.edu/index.html).
