@@ -18,7 +18,3 @@ permalink: /research
 
 
 ## Blog Posts
-
-
----
-
