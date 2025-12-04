@@ -17,4 +17,5 @@ permalink: /research
   * As part of the Making Abolition in Geography Collective (See Grants & Fellowships on [CV](https://drew-heider.space/CV)).
 
 
+# Public-Facing Writing
 ## Blog Posts
