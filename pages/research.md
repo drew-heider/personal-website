@@ -4,9 +4,21 @@ layout: default
 permalink: /research
 ---
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Publications
+## Book Chapters
+* Ashutosh, Ishan, et al. (Heiderscheidt, Drew). 2025. Justice. The Wiley-Blackwell Companion to Social and Cultural Geography, eds. Jamie Winders and Ishan Ashutosh, Wiley-Blackwell.
+
+## Academic Journal Articles
+* Montange, Leah, Smyth, Araby, Henderson, Jane, and **Heiderscheidt, Drew**. 2026. GIS, Policing, and Us. *GeoForum*. Forthcoming.
+* Lockwood, Ben, and **Heiderscheidt, Drew**. 2023. Place(making) for Conservation Activism: Materiality, Non-Human Agency, Ethics, and Interaction in Indianapolis, IN. Area 55 (4): 558-564. 
+
+## Resource Guides & Toolkits
+* Making Abolition in Geography Collective (**Heiderscheidt, Drew**). 2023. [Beyond Esri Resource Guide](https://antipodeonline.org/wp-content/uploads/2024/02/Beyond-Esri-Resource-Guide.pdf). 
+  * As part of the Making Abolition in Geography Collective (See Grants & Fellowships on [CV](https://drew-heider.space/CV)).
+
+
+## Blog Posts
+
+
+---
+
