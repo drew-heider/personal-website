@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Home
+- title: Drew Heiderscheidt
   url: /
   excerpt:
   image:
 
-- title: Maps 🌎
+- title: Maps
   url: /maps
   excerpt:
   image:
 
-- title: CV
+- title: CV 
   url: /CV
   excerpt:
   image:
