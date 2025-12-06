@@ -45,7 +45,7 @@ permalink: /CV
 
 --- 
 ### **Publications**
-* See [Publications](https://drew-heider.space/publications).
+* See [Research](https://drew-heider.space/research).
 
 --- 
 
@@ -64,11 +64,12 @@ permalink: /CV
 ### **Grants & Fellowships**
 #### *External*
 ##### 2024
-* IHG Research Grant ($2,000) – *Institute of Human Geography*
+* IHG Research Grant (**$2,000**) – *Institute of Human Geography*
+  * With Isaac Rivera
 * Digital Project Accelerator – *Critical Digital Humanities Initiative (University of Toronto)*
 
 ##### 2023
-* Right to the Discipline Grant (£10,000.00/~$12,225) – Antipode
+* Right to the Discipline Grant (**£10,000.00/~$12,225**) – Antipode
   * Individually allocated $3,000 as a member of the Making Abolition in Geography Collective.
   * PI’s for this grant are Jane Henderson (Dartmouth College), Leah Montange (University of Toronto), and Araby Smyth (York University).
   * My role in this grant is to help create a spatial database visualizing the contracts of Esri with police departments around the U.S. and Canada based on FOIA requests submitted by Leah Montange in 2023.
@@ -138,7 +139,7 @@ permalink: /CV
   * Maintained the IU Geography Department's Twitter & Facebook pages.
 
 ##### 2019
-* *GPS* Organizer
+* *Geography in Practice Symposium* Organizer
   * Assisted organizing Jason W. Moore’s colloquium presentation “For an Ecology of Hope: Climate, Power, and Justice in the Modern World.”
 
 ---
