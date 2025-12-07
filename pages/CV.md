@@ -6,7 +6,7 @@ permalink: /CV
 
 # Drew Heiderscheidt
 ###### Instructional Consultant | Center for Innovative Teaching & Learning, Indiana University Bloomington (IUB)
-#### PhD Candidate | Department of Geography, IUB
+###### PhD Candidate | Department of Geography, IUB
 
 --- 
 
