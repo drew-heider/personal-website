@@ -13,31 +13,29 @@
 **/
 
 /* SCSS HEX */
-$light-blue: #00bfff;
-$light-green: #80e5b1;
-$light-green2: #49d49d;
-$middle-green: #558564;
-$dark-green: #564946;
-$black: black;
-$white: white;
+$outer-space-crayola: #092d34;
+$orange-peel: #ffa62b;
+$cultured: #f7f4f3;
+$middle-blue: #82c0cc;
+$teal-blue: #347383;
 
 /** main color scheme **/
-$main-text-color: $light-green2;
-$main-link: $light-green2;
-$main-bg: $white;
-$main-link-hover: $middle-green;
-$main-headers: $dark-green;
+$main-text-color: $outer-space-crayola;
+$main-bg: $cultured;
+$main-link: $orange-peel;
+$main-link-hover: $teal-blue;
+$main-headers: $orange-peel;
 
 /** dark-background color scheme **/
-$dark-text-color: $light-green;
-$dark-link: $light-green2;
-$dark-bg: $black;
-$dark-link-hover: $dark-green;
-$dark-headers: $white;
+$dark-text-color: $cultured;
+$dark-bg: $outer-space-crayola;
+$dark-link: $middle-blue;
+$dark-link-hover: $orange-peel;
+$dark-headers: $middle-blue;
 
 /** accent-background color scheme **/
-$accent-text-color: $black;
-$accent-link: $light-blue;
-$accent-bg: $light-blue;
-$accent-link-hover: $light-green;
-$accent-headers: $light-green;
+$accent-text-color: $outer-space-crayola;
+$accent-bg: $middle-blue;
+$accent-link: $teal-blue;
+$accent-link-hover: $orange-peel;
+$accent-headers: $teal-blue;
