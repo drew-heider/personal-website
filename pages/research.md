@@ -6,7 +6,7 @@ permalink: /research
 
 # **Publications**
 ##### *Book Chapters*
-* Ashutosh, Ishan, **Heiderscheidt, Drew**, Neel, Phil, & Watkins, Jen. 2025. Justice. The Wiley-Blackwell Companion to Social and Cultural Geography, eds. Jamie Winders and Ishan Ashutosh, Wiley-Blackwell.
+* Ashutosh, Ishan, **Heiderscheidt, Drew**, Neel, Phil, & Watkins, Jen. 2025. Justice. *The Wiley-Blackwell Companion to Social and Cultural Geography*, eds. Jamie Winders and Ishan Ashutosh, Wiley-Blackwell.
 
 ##### *Academic Journal Articles*
 * Montange, Leah, Smyth, Araby, Henderson, Jane, and **Heiderscheidt, Drew**. 2026. GIS, Policing, and Us. *GeoForum*. Forthcoming.
