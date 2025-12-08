@@ -35,8 +35,3 @@ permalink: /teaching
 * GEOG-G 208: Environment & Society
 * GEOG-G 237: Mapping Our World
 
-### **Fall 2021**
-### Spring 2021**
-### **Fall 2020**
-### **Spring 2020**
-### **Fall 2019**
