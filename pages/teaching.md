@@ -5,35 +5,35 @@ permalink: /teaching
 ---
 
 ## **Courses Taught**
-##### Spring 2025
-* GEOG-G 397: Social & Historical Geographic Information Systems [GIS]*
-  * In-Person
-  * 18 students
+#### Spring 2025
+GEOG-G 397: Social & Historical Geographic Information Systems [GIS]*
+* In-Person
+* 18 students
 
-##### Fall 2024
-* GEOG-G 208: Environment & Society
-  * In-Person
-  * 60 students
+#### Fall 2024
+GEOG-G 208: Environment & Society
+* In-Person
+* 60 students
 
-##### Spring 2023
-* GEOG-G 397: Social & Historical Geographic Information Systems [GIS]
-  * In-Person
-  * 30 students
+#### Spring 2023
+GEOG-G 397: Social & Historical Geographic Information Systems [GIS]
+* In-Person
+* 30 students
 
-##### Fall 2022
-* GEOG-G 237: Mapping Our World
-  * In-Person
-  * 96 students
+#### Fall 2022
+GEOG-G 237: Mapping Our World
+* In-Person
+* 96 students
 
-##### Summer 2022
-* GEOG-G 237: Mapping Our World
-  * Online Synchronous
-  * 9 students
+#### Summer 2022
+GEOG-G 237: Mapping Our World
+* Online Synchronous
+* 9 students
 
-##### Courses Assisted
+#### Courses Assisted
 ###### 2020
-* GEOG-G 237: Mapping Our World
+GEOG-G 237: Mapping Our World
 
 ###### 2019-2020
-* GEOG-G 208: Environment & Society
+GEOG-G 208: Environment & Society
 
