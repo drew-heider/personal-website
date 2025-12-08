@@ -26,18 +26,18 @@ $main-text-color: $black;
 $main-bg: $white;
 $main-link: $light-green2;
 $main-link-hover: $middle-green;
-$main-headers: $dark-green;
+$main-headers: $light-blue;
 
 /** dark-background color scheme **/
 $dark-text-color: $white;
-$dark-bg: $dark-green;
+$dark-bg: $black;
 $dark-link: $middle-green;
 $dark-link-hover: $light-blue;
-$dark-headers: $middle-green;
+$dark-headers: $light-blue;
 
 /** accent-background color scheme **/
 $accent-text-color: $black;
-$accent-bg: $light-green;
-$accent-link: $light-green;
-$accent-link-hover: $middle-green;
-$accent-headers: $light-blue;
+$accent-bg: $black;
+$accent-link: $black;
+$accent-link-hover: $black;
+$accent-headers: $black;
