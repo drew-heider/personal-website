@@ -111,13 +111,13 @@ permalink: /CV
 ##### 2021
 * *GIS Day* Organizer
   * In collaboration with the Institute for Digital Arts and Humanities (IDAH) and IU Libraries.
-  * Key member of the organizing committee for 2021’s GIS Day at IUB and helped develop the theme “Mapping the Public Sphere: Citizen Science, Participatory History, and Public Engagement with the Academy.” (https://bit.ly/3yiLg6c)
+  * Key member of the organizing committee for 2021’s GIS Day at IUB and helped develop the theme [“Mapping the Public Sphere: Citizen Science, Participatory History, and Public Engagement with the Academy”](https://bit.ly/3yiLg6c).
   * Responsible for inviting, planning, and introducing Dr. Jen Jack Gieseking’s keynote presentation [“Constellations: The Limits and Inspirations of Mapping Queer Cities of Survival & Desire.”](https://hdl.handle.net/2022/27013).
 
 ##### 2020
 * *GIS Day* Organizer
-  * Key member of the organizing committee for 2020’s GIS Day with the theme “Geographies of Disruption: Mapping to Make Sense of 2020’s Sociopolitical Upheaval” (https://bit.ly/3G8XrER)
-  * Organized and moderated Dr. Heidi Rae Cooley’s keynote presentation, [“’Sensing’ Place: Habit Change in the Mobile, Connected Present”](November 18, 2020, https://hdl.handle.net/2022/25980).
+  * Key member of the organizing committee for 2020’s GIS Day with the theme [“Geographies of Disruption: Mapping to Make Sense of 2020’s Sociopolitical Upheaval]”(https://bit.ly/3G8XrER).
+  * Organized and moderated Dr. Heidi Rae Cooley’s keynote presentation, [“Sensing Place: Habit Change in the Mobile, Connected Present”](https://hdl.handle.net/2022/25980).
 
 #### *Department*
 ##### 2021-2022
