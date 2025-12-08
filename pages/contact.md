@@ -4,9 +4,5 @@ layout: default
 permalink: /contact
 ---
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+## Reach Out!
+##### Feel free to reach out at the email dheider@iu.edu[dheider@iu.edu](mailto:dheider@iu.edu) with any comments, concerns, mapmaking requesta, questions, or anything else.
