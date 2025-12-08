@@ -16,7 +16,7 @@ permalink: /teaching
 
 ## **Courses Taught**
 #### *Spring 2025*
-GEOG-G 397: Social & Historical Geographic Information Systems [GIS]*
+GEOG-G 397: Social & Historical Geographic Information Systems
 * In-Person
 * 18 students
 
@@ -26,7 +26,7 @@ GEOG-G 208: Environment & Society
 * 60 students
 
 #### *Spring 2023*
-GEOG-G 397: Social & Historical Geographic Information Systems [GIS]
+GEOG-G 397: Social & Historical Geographic Information Systems
 * In-Person
 * 30 students
 
