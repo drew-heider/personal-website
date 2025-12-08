@@ -6,8 +6,9 @@ permalink: /teaching
 
 ## **Pedagogical Experience**
 ###### Instructional Consultant, Center for Innovative Teaching & Learning, IUB (2025-Present)
+* INSERT TEXT HERE
 
-##### Associate Instructor, Dept. of Geography, IUB (2019-2025)
+###### Associate Instructor, Dept. of Geography, IUB (2019-2025)
 * See Course Taught section below.
 
 ###### Digital Methods & Pedagogy Specialist, Institute for Digital Arts & Humanities, IUB (2023-2024)
