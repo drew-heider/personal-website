@@ -42,7 +42,7 @@ GEOG-G 237: Mapping Our World
 * 9 students
 
 #### *Courses Assisted*
-###### 2020
+###### 2020-2022
 GEOG-G 237: Mapping Our World
 
 ###### 2019-2020
