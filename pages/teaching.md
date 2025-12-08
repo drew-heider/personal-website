@@ -15,18 +15,19 @@ permalink: /teaching
 ---
 
 ## **Courses Taught**
+###### * = Course designed by Drew Heiderscheidt
 #### *Spring 2025*
-GEOG-G 397: Social & Historical Geographic Information Systems
+GEOG-G 397: Social & Historical Geographic Information Systems*
 * In-Person
 * 18 students
 
 #### *Fall 2024*
-GEOG-G 208: Environment & Society
+GEOG-G 208: Environment & Society*
 * In-Person
 * 60 students
 
 #### *Spring 2023*
-GEOG-G 397: Social & Historical Geographic Information Systems
+GEOG-G 397: Social & Historical Geographic Information Systems*
 * In-Person
 * 30 students
 
