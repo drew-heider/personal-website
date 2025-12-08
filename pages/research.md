@@ -15,7 +15,3 @@ permalink: /research
 ## Resource Guides & Toolkits
 * Making Abolition in Geography Collective (**Heiderscheidt, Drew**). 2023. [Beyond Esri Resource Guide](https://antipodeonline.org/wp-content/uploads/2024/02/Beyond-Esri-Resource-Guide.pdf). 
   * As part of the Making Abolition in Geography Collective (See Grants & Fellowships on [CV](https://drew-heider.space/CV)).
-
-
-# Public-Facing Writing
-## Blog Posts
