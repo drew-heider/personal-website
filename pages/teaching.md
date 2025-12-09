@@ -54,7 +54,15 @@ GEOG-G 208: Environment & Society
 
 ---
 
-## **Teaching Fellowships**
+## **Writing About Teaching**
+
+---
+
+## **Teaching Workshops Facilitated**
+
+---
+
+## **Teaching Awards & Fellowships**
 ###### Graduate Student Fellow, Kovener Teaching Fellows Program, IUB
 * Selected to take part in a fellowship composed of undergraduates, graduate students, and faculty members who are committed to practicing diversity in the classroom.
 * Became acquainted with critical pedagogy methods and strategies sourced in the work of Paulo Freire, bell hooks, and other practitioners of active and critical teaching.
