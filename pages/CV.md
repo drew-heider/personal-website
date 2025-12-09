@@ -36,7 +36,7 @@ permalink: /CV
 
 ---
 
-### Teaching & Pedagogical Experience
+### **Teaching & Pedagogical Experience**
 * See [Teaching](https://drew-heider.space/teaching).
 
 ---
@@ -44,6 +44,7 @@ permalink: /CV
 ### **Technical & GIS Experience**
 
 --- 
+
 ### **Publications**
 * See [Research](https://drew-heider.space/research).
 
