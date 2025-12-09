@@ -116,7 +116,7 @@ permalink: /CV
 
 ##### 2020
 * *GIS Day* Organizer
-  * Key member of the organizing committee for 2020’s GIS Day with the theme [“Geographies of Disruption: Mapping to Make Sense of 2020’s Sociopolitical Upheaval]”(https://bit.ly/3G8XrER).
+  * Key member of the organizing committee for 2020’s GIS Day with the theme [“Geographies of Disruption: Mapping to Make Sense of 2020’s Sociopolitical Upheaval"](https://bit.ly/3G8XrER).
   * Organized and moderated Dr. Heidi Rae Cooley’s keynote presentation, [“Sensing Place: Habit Change in the Mobile, Connected Present”](https://hdl.handle.net/2022/25980).
 
 #### *Department*
