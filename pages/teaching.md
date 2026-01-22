@@ -18,6 +18,14 @@ permalink: /teaching
 
 ---
 
+## **Teaching Interests**
+
+| ------------- | ------------- | ------------- | 
+| Active Learning  | Reading Comprehension  | Combining Research & Pedagogy |
+| Teaching in Large Courses  | Critical Pedagogy  |  |
+
+---
+
 ## **Courses Taught**
 ###### * = Course designed by Drew Heiderscheidt
 ##### *Spring 2025*
