@@ -26,10 +26,11 @@ permalink: /teaching
 
 ---
 
-## **Courses Taught**
-###### * = Course designed by Drew Heiderscheidt
+## **Courses**
+###### * = Designed by Drew Heiderscheidt
 
-### Department of Geography, IUB
+#### Department of Geography, IUB
+##### *Courses Taught*
 
 | **Term**          | **Class Level & Title**              | **Number of Students** | **Modality**          |
 |-------------------|--------------------------------------|-------------------|-----------------------|
