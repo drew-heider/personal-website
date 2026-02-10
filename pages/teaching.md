@@ -28,6 +28,16 @@ permalink: /teaching
 
 ## **Courses Taught**
 ###### * = Course designed by Drew Heiderscheidt
+
+| **Term**          | **Class Level & Title**              | **# of Students** | **Modality**          |
+|-------------------|--------------------------------------|-------------------|-----------------------|
+| ***Spring 2025*** | GEOG-G 397: Social & Historical GIS* | 18 Students       | In-Person Synchronous |
+| ***Fall 2024***   | GEOG-G 208: Environment & Society    | 60 Students       | In-Person Synchronous |
+| ***Spring 2023*** | GEOG-G 397: Social & Historical GIS*  | 30 Students       | In-Person Synchronous |
+| ***Fall 2022***   | GEOG-G 237: Mapping Our World        | 96 Students       | In-Person Synchronous |
+| ***Summer 2022*** | GEOG-G 237: Mapping Our World        | 9 Students        | Online Synchronous    |
+
+
 ##### *Spring 2025*
 GEOG-G 397: Social & Historical Geographic Information Systems*
 * In-Person
@@ -63,8 +73,8 @@ GEOG-G 208: Environment & Society
 ---
 
 ## **Writing About Teaching**
-* "Improving Reading Comprehension: Meeting Students Where They Are." *CITL Blog* (10 Sept 2025) — [Link](https://blogs.iu.edu/citl/2025/09/10/3093/).
-* "Welcome to our new Instructional Consultant, Drew Heiderscheidt." *CITL Blog* (21 May 2025) — [Link](https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/).
+* "Improving Reading Comprehension: Meeting Students Where They Are." *CITL Blog* (10 Sept 2025) — [Link](https://blogs.iu.edu/citl/2025/09/10/3093/)
+* "Welcome to our new Instructional Consultant, Drew Heiderscheidt." *CITL Blog* (21 May 2025) — [Link](https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/)
 
 ---
 
