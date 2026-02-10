@@ -39,13 +39,14 @@ permalink: /teaching
 
 ##### *Courses Assisted*
 
-| **Term**          | **Class Level & Title**              | **# of Students** | **Modality**          |
-|-------------------|--------------------------------------|-------------------|-----------------------|
-| ***Spring 2025*** | GEOG-G 397: Social & Historical GIS* | 18 Students       | In-Person Synchronous |
-| ***Fall 2024***   | GEOG-G 208: Environment & Society    | 60 Students       | In-Person Synchronous |
-| ***Spring 2023*** | GEOG-G 397: Social & Historical GIS  | 30 Students       | In-Person Synchronous |
-| ***Fall 2022***   | GEOG-G 237: Mapping Our World        | 96 Students       | In-Person Synchronous |
-| ***Summer 2022*** | GEOG-G 237: Mapping Our World        | 9 Students        | Online Synchronous    |
+| **Term**          | **Class Level & Title**           | **Instructor of Record** |
+|-------------------|-----------------------------------|--------------------------|
+| ***Spring 2022*** | GEOG-G 237: Mapping Our World     | John Baeten              |
+| ***Fall 2021***   | GEOG-G 237: Mapping Our World     | John Baeten              |
+| ***Spring 2021*** | GEOG-G 237: Mapping Our World     | Yuri Kim                 |
+| ***Fall 2020**    | GEOG-G 237: Mapping Our World     | Taehee Kim               |
+| ***Spring 2020*** | GEOG-G 208: Environment & Society | John Baeten              |
+| ***Fall 2019***   | GEOG-G 208: Environment & Society | Mitchell Owens           |
 
 ---
 
