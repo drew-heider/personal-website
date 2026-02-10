@@ -29,7 +29,7 @@ permalink: /teaching
 ## **Courses Taught**
 ###### * = Course designed by Drew Heiderscheidt
 
-| **Term**          | **Class Level & Title**              | **# of Students** | **Modality**          |
+| **Term**          | **Class Level & Title**              | **Number of Students** | **Modality**          |
 |-------------------|--------------------------------------|-------------------|-----------------------|
 | ***Spring 2025*** | GEOG-G 397: Social & Historical GIS* | 18 Students       | In-Person Synchronous |
 | ***Fall 2024***   | GEOG-G 208: Environment & Society    | 60 Students       | In-Person Synchronous |
@@ -37,38 +37,15 @@ permalink: /teaching
 | ***Fall 2022***   | GEOG-G 237: Mapping Our World        | 96 Students       | In-Person Synchronous |
 | ***Summer 2022*** | GEOG-G 237: Mapping Our World        | 9 Students        | Online Synchronous    |
 
-
-##### *Spring 2025*
-GEOG-G 397: Social & Historical Geographic Information Systems*
-* In-Person
-* 18 students
-
-##### *Fall 2024*
-GEOG-G 208: Environment & Society*
-* In-Person
-* 60 students
-
-##### *Spring 2023*
-GEOG-G 397: Social & Historical Geographic Information Systems*
-* In-Person
-* 30 students
-
-##### *Fall 2022*
-GEOG-G 237: Mapping Our World
-* In-Person
-* 96 students
-
-##### *Summer 2022*
-GEOG-G 237: Mapping Our World
-* Online Synchronous
-* 9 students
-
 ##### *Courses Assisted*
-###### 2020-2022
-GEOG-G 237: Mapping Our World
 
-###### 2019-2020
-GEOG-G 208: Environment & Society
+| **Term**          | **Class Level & Title**              | **# of Students** | **Modality**          |
+|-------------------|--------------------------------------|-------------------|-----------------------|
+| ***Spring 2025*** | GEOG-G 397: Social & Historical GIS* | 18 Students       | In-Person Synchronous |
+| ***Fall 2024***   | GEOG-G 208: Environment & Society    | 60 Students       | In-Person Synchronous |
+| ***Spring 2023*** | GEOG-G 397: Social & Historical GIS  | 30 Students       | In-Person Synchronous |
+| ***Fall 2022***   | GEOG-G 237: Mapping Our World        | 96 Students       | In-Person Synchronous |
+| ***Summer 2022*** | GEOG-G 237: Mapping Our World        | 9 Students        | Online Synchronous    |
 
 ---
 
