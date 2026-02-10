@@ -29,6 +29,8 @@ permalink: /teaching
 ## **Courses Taught**
 ###### * = Course designed by Drew Heiderscheidt
 
+### Department of Geography, IUB
+
 | **Term**          | **Class Level & Title**              | **Number of Students** | **Modality**          |
 |-------------------|--------------------------------------|-------------------|-----------------------|
 | ***Spring 2025*** | GEOG-G 397: Social & Historical GIS* | 18 Students       | In-Person Synchronous |
@@ -44,7 +46,7 @@ permalink: /teaching
 | ***Spring 2022*** | GEOG-G 237: Mapping Our World     | John Baeten              |
 | ***Fall 2021***   | GEOG-G 237: Mapping Our World     | John Baeten              |
 | ***Spring 2021*** | GEOG-G 237: Mapping Our World     | Yuri Kim                 |
-| ***Fall 2020**    | GEOG-G 237: Mapping Our World     | Taehee Kim               |
+| ***Fall 2020***    | GEOG-G 237: Mapping Our World     | Taehee Kim               |
 | ***Spring 2020*** | GEOG-G 208: Environment & Society | John Baeten              |
 | ***Fall 2019***   | GEOG-G 208: Environment & Society | Mitchell Owens           |
 
