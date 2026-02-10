@@ -28,9 +28,8 @@ permalink: /teaching
 
 ## **Courses**
 ###### * = Designed by Drew Heiderscheidt
-
-#### Department of Geography, IUB
-##### *Courses Taught*
+##### *Department of Geography, IUB*
+###### Courses Taught
 
 | **Term**          | **Class Level & Title**              | **Number of Students** | **Modality**          |
 |-------------------|--------------------------------------|-------------------|-----------------------|
@@ -40,7 +39,7 @@ permalink: /teaching
 | ***Fall 2022***   | GEOG-G 237: Mapping Our World        | 96 Students       | In-Person Synchronous |
 | ***Summer 2022*** | GEOG-G 237: Mapping Our World        | 9 Students        | Online Synchronous    |
 
-##### *Courses Assisted*
+###### Courses Assisted
 
 | **Term**          | **Class Level & Title**           | **Instructor of Record** |
 |-------------------|-----------------------------------|--------------------------|
