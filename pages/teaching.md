@@ -21,8 +21,8 @@ permalink: /teaching
 ## **Pedagogical Interests**
 
 | ------------- | ------------- | ------------- | ------------- | 
-| Active Learning  | Reading Comprehension  | Combining Research & Pedagogy | Geographic Information Systems |
-| Teaching in Enrollment Large Courses  | Critical Pedagogy  | Teaching in STEM |  |
+| Active Learning  | Reading Comprehension  | Combining Research & Pedagogy | Geographic Information Systems (Spatial Thinking) |
+| Teaching in Enrollment Large Courses  | Critical Pedagogy  | Teaching in STEM | Historical Thinking |
 
 ---
 
