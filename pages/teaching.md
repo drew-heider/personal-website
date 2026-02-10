@@ -18,11 +18,11 @@ permalink: /teaching
 
 ---
 
-## **Teaching & Consulting Themes**
+## **Pedagogical Interests**
 
 | ------------- | ------------- | ------------- | 
-| Active Learning  | Reading Comprehension  | Combining Research & Pedagogy |
-| Teaching in Large Courses  | Critical Pedagogy  | Teaching in STEM |
+| Active Learning  | Reading Comprehension  | Combining Research & Pedagogy | Geographic Information Systems |
+| Teaching in Enrollment Large Courses  | Critical Pedagogy  | Teaching in STEM |  |
 
 ---
 
