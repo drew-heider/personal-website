@@ -63,8 +63,8 @@ GEOG-G 208: Environment & Society
 ---
 
 ## **Writing About Teaching**
-* "Improving Reading Comprehension: Meeting Students Where They Are." *CITL Blog* (10 Sept 2025), ([link](https://blogs.iu.edu/citl/2025/09/10/3093/)).
-* "Welcome to our new Instructional Consultant, Drew Heiderscheidt." *CITL Blog* (21 May 2025), ([link](https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/)).
+* "Improving Reading Comprehension: Meeting Students Where They Are." *CITL Blog* (10 Sept 2025) — [Link](https://blogs.iu.edu/citl/2025/09/10/3093/)).
+* "Welcome to our new Instructional Consultant, Drew Heiderscheidt." *CITL Blog* (21 May 2025) — ([Link](https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/)).
 
 ---
 
