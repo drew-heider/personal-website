@@ -55,7 +55,7 @@ permalink: /teaching
 ## **Writing About Teaching**
 * "Six Signature Attention Activities for Cultivating Concentration in Your Classes." *CITL Blog* (25 Feb 2026) — [Link](https://blogs.iu.edu/citl/2026/02/25/six-signature-attention-activities/) ([Archive](https://web.archive.org/web/20260225162305/https://blogs.iu.edu/citl/2026/02/25/six-signature-attention-activities/))
 * "Improving Reading Comprehension: Meeting Students Where They Are." *CITL Blog* (10 Sept 2025) — [Link](https://blogs.iu.edu/citl/2025/09/10/3093/) ([Archive](https://web.archive.org/web/20260225162213/https://blogs.iu.edu/citl/2025/09/10/3093/))
-* "Welcome to our new Instructional Consultant, Drew Heiderscheidt." *CITL Blog* (21 May 2025) — [Link](https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/) ([Archive](https://web.archive.org/web/20260225162114/https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/))
+* "Welcome to our new Instructional Consultant, Drew Heiderscheidt." *CITL Blog* (21 May 2025) — [Link](https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/) ([Archive](https://web.archive.org/web/20260225162650/https://blogs.iu.edu/citl/2025/05/21/welcome-to-our-new-instructional-consultant-drew-heiderscheidt/))
 
 ---
 
